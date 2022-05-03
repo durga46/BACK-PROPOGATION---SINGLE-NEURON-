@@ -54,4 +54,4 @@ print(w)
 ```
 
 ## Output:
-![output](./ststic/img/c1.png)
+![c1](https://user-images.githubusercontent.com/75235704/166423940-a90c185c-9ce0-4be2-981e-e5a0d8e13acc.png)
