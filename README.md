@@ -55,3 +55,6 @@ print(w)
 
 ## Output:
 ![c1](https://user-images.githubusercontent.com/75235704/166423940-a90c185c-9ce0-4be2-981e-e5a0d8e13acc.png)
+
+## Result:
+Thus the Back Propagation in Single Neuron was successfully implemented using python programming.
