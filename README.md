@@ -1,3 +1,5 @@
+### EX NO: 04
+### DATE: 08.04.2022
 # BACK-PROPOGATION---SINGLE-NEURON-
 # Aim:
  To write a python program to perform Back Propagation in Single Neuron.
